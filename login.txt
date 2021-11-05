@@ -1,0 +1,4 @@
+login: teste
+senha: 0379367d5067264fabf8a50783c128e95e8adc44
+
+(senha = cetec com sha1)
